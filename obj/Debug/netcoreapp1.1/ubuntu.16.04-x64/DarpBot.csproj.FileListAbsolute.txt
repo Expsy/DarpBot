@@ -1,0 +1,12 @@
+C:\Visual Projects\New\Discord\DarpBot\DarpBot\bin\Debug\netcoreapp1.1\ubuntu.16.04-x64\libhostpolicy.so
+C:\Visual Projects\New\Discord\DarpBot\DarpBot\bin\Debug\netcoreapp1.1\ubuntu.16.04-x64\libhostfxr.so
+C:\Visual Projects\New\Discord\DarpBot\DarpBot\bin\Debug\netcoreapp1.1\ubuntu.16.04-x64\DarpBot
+C:\Visual Projects\New\Discord\DarpBot\DarpBot\bin\Debug\netcoreapp1.1\ubuntu.16.04-x64\DarpBot.deps.json
+C:\Visual Projects\New\Discord\DarpBot\DarpBot\bin\Debug\netcoreapp1.1\ubuntu.16.04-x64\DarpBot.runtimeconfig.json
+C:\Visual Projects\New\Discord\DarpBot\DarpBot\bin\Debug\netcoreapp1.1\ubuntu.16.04-x64\DarpBot.runtimeconfig.dev.json
+C:\Visual Projects\New\Discord\DarpBot\DarpBot\bin\Debug\netcoreapp1.1\ubuntu.16.04-x64\DarpBot.dll
+C:\Visual Projects\New\Discord\DarpBot\DarpBot\bin\Debug\netcoreapp1.1\ubuntu.16.04-x64\DarpBot.pdb
+C:\Visual Projects\New\Discord\DarpBot\DarpBot\obj\Debug\netcoreapp1.1\ubuntu.16.04-x64\DarpBot.csprojResolveAssemblyReference.cache
+C:\Visual Projects\New\Discord\DarpBot\DarpBot\obj\Debug\netcoreapp1.1\ubuntu.16.04-x64\DarpBot.AssemblyInfo.cs
+C:\Visual Projects\New\Discord\DarpBot\DarpBot\obj\Debug\netcoreapp1.1\ubuntu.16.04-x64\DarpBot.dll
+C:\Visual Projects\New\Discord\DarpBot\DarpBot\obj\Debug\netcoreapp1.1\ubuntu.16.04-x64\DarpBot.pdb

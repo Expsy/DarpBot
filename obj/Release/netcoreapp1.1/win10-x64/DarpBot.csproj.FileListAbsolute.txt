@@ -1,0 +1,13 @@
+C:\Visual Projects\New\Discord\DarpBot\DarpBot\bin\Release\netcoreapp1.1\win10-x64\hostpolicy.dll
+C:\Visual Projects\New\Discord\DarpBot\DarpBot\bin\Release\netcoreapp1.1\win10-x64\hostfxr.dll
+C:\Visual Projects\New\Discord\DarpBot\DarpBot\bin\Release\netcoreapp1.1\win10-x64\DarpBot.exe
+C:\Visual Projects\New\Discord\DarpBot\DarpBot\bin\Release\netcoreapp1.1\win10-x64\DarpBot.deps.json
+C:\Visual Projects\New\Discord\DarpBot\DarpBot\bin\Release\netcoreapp1.1\win10-x64\DarpBot.runtimeconfig.json
+C:\Visual Projects\New\Discord\DarpBot\DarpBot\bin\Release\netcoreapp1.1\win10-x64\DarpBot.runtimeconfig.dev.json
+C:\Visual Projects\New\Discord\DarpBot\DarpBot\bin\Release\netcoreapp1.1\win10-x64\DarpBot.dll
+C:\Visual Projects\New\Discord\DarpBot\DarpBot\bin\Release\netcoreapp1.1\win10-x64\DarpBot.pdb
+C:\Visual Projects\New\Discord\DarpBot\DarpBot\obj\Release\netcoreapp1.1\win10-x64\DarpBot.csproj.CoreCompileInputs.cache
+C:\Visual Projects\New\Discord\DarpBot\DarpBot\obj\Release\netcoreapp1.1\win10-x64\DarpBot.AssemblyInfo.cs
+C:\Visual Projects\New\Discord\DarpBot\DarpBot\obj\Release\netcoreapp1.1\win10-x64\DarpBot.dll
+C:\Visual Projects\New\Discord\DarpBot\DarpBot\obj\Release\netcoreapp1.1\win10-x64\DarpBot.pdb
+C:\Visual Projects\New\Discord\DarpBot\DarpBot\obj\Release\netcoreapp1.1\win10-x64\DarpBot.csprojResolveAssemblyReference.cache

@@ -1,0 +1,9 @@
+C:\Visual Projects\New\Discord\Darpbot\DarpBot\bin\Release\netcoreapp1.1\DarpBot.deps.json
+C:\Visual Projects\New\Discord\Darpbot\DarpBot\bin\Release\netcoreapp1.1\DarpBot.runtimeconfig.json
+C:\Visual Projects\New\Discord\Darpbot\DarpBot\bin\Release\netcoreapp1.1\DarpBot.runtimeconfig.dev.json
+C:\Visual Projects\New\Discord\Darpbot\DarpBot\bin\Release\netcoreapp1.1\DarpBot.dll
+C:\Visual Projects\New\Discord\Darpbot\DarpBot\bin\Release\netcoreapp1.1\DarpBot.pdb
+C:\Visual Projects\New\Discord\Darpbot\DarpBot\obj\Release\netcoreapp1.1\DarpBot.csprojResolveAssemblyReference.cache
+C:\Visual Projects\New\Discord\Darpbot\DarpBot\obj\Release\netcoreapp1.1\DarpBot.AssemblyInfo.cs
+C:\Visual Projects\New\Discord\Darpbot\DarpBot\obj\Release\netcoreapp1.1\DarpBot.dll
+C:\Visual Projects\New\Discord\Darpbot\DarpBot\obj\Release\netcoreapp1.1\DarpBot.pdb
